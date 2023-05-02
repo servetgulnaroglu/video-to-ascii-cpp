@@ -33,17 +33,15 @@ This project depends on the following libraries:
 1. Install OpenCV and set up the environment.
 2. If you are using vim edit the compile_commands.json. Find the path of opencv and change with the path in compile_commands.json 
 3. Modify the opencv path in build.sh
-4. Give permission to build.sh by:
+4. Give permission to build.sh by:<br />
       $ chmod +x build.sh
-5. Run in terminal:
+5. Run in terminal:<br />
       $ ./build.sh
 
 ## Usage
 
-Usage: 
-
 1. Edit the path of video in main.cpp
-2. Run in terminal:
+2. Run in terminal: <br />
       $ ./build.sh
 
 ## Contributing
